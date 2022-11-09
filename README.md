@@ -1,2 +1,2 @@
-# simple-tic-tac-toe
-Simple Tic-Tac-Toe game in Haskell
+# simple-jankenpon
+Simple Jankenpon game in Haskell
